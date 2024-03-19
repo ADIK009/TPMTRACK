@@ -1,0 +1,6 @@
+openai api key
+pandas 
+numpy
+matplotlib
+pandas profiling
+streamlit
