@@ -27,3 +27,12 @@ The purpose of the project was to:
   - Framework: Utilization of STREAMLIT for developing the web application.
   - Language: Implementation of the project in Python, leveraging its versatility and ease of use.
   - Libraries: Integration of TensorFlow for machine learning tasks or any other relevant libraries for data analysis and visualization.
+ 
+    Few Screenshots of project:-
+
+    <img width="1440" alt="Screenshot 2023-11-09 at 12 03 23 PM" src="https://github.com/ADIK009/TPMTRACK/assets/163897534/1e7eda11-6d2f-439b-9845-ed34989fb2d0">
+    <img width="1440" alt="Screenshot 2023-11-09 at 12 58 24 PM" src="https://github.com/ADIK009/TPMTRACK/assets/163897534/07b26652-73a7-4d85-9520-140a5faf64a3">
+    <img width="1395" alt="Screenshot 2023-11-20 at 10 08 29 PM" src="https://github.com/ADIK009/TPMTRACK/assets/163897534/d06f716c-35a5-4991-ad24-7a3186fe4959">
+
+
+
